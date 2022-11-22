@@ -1,6 +1,6 @@
 #
 #
-#zc706_pmod1_m_spi.v
+#zc706_pmod1.xdc
 #
 #Copyright (C) Digisky Media Solutions Inc.  All rights reserved.
 #

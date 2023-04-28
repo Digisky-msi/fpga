@@ -1,1 +1,1 @@
-Intel/Altera MAX10 projects initial check in
+Added NIOS II demo

@@ -1,1 +1,0 @@
-HLS generated verilog files
